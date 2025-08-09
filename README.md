@@ -107,6 +107,8 @@ cat .hidden
 cd inhere
 file *
 cat ./-file07
+
+hint: only human-readable refsers to ASCII type files.
 ```
 
 * `file *`: Shows the file type of each item.
