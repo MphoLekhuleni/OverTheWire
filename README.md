@@ -107,6 +107,7 @@ cat .hidden
 cd inhere
 file *
 cat ./-file07
+Hint: ASCII file
 ```
 
 * `file *`: Shows the file type of each item.
