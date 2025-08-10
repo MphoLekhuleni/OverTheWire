@@ -203,11 +203,20 @@ base64 -d data.txt
 
 **Password for bandit11:** `[REDACTED]`
 
+#### Level 11 → Level 12
+
+![alt text](image.png)
+
+**goal:** Decode a Rot13-encoded file
+
+* cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+
 ---
 
 ### 📷 Screenshots *(Optional)*
 
-Include screenshots of your terminal at each level (optional but visually valuable for LinkedIn/GitHub).
+
 
 ---
 
